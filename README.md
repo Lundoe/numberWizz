@@ -1,2 +1,2 @@
 # numberWizz
-The first, functioning, code I've made!
+The first functioning code I've ever made!
